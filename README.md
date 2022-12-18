@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Eymen</h1>
-<h3 align="center">I'm Eymen 👋🏻, I'm a high school student in Turkey 🏫, I live in Istanbul 🌆, I have been interested in software and electronics for 1 year 👨🏻‍💻</h3>
+<h3 align="center">I'm a high school student in Turkey 🏫, I live in Istanbul 🌆, I have been interested in software and electronics for 1 year 👨🏻‍💻</h3>
 
 - 🌱 I’m currently learning **Java languages**
 

@@ -13,6 +13,7 @@
 - Arduino
 ---
 **My Social Media Accounts :**
+- [LinkedIn](https://www.linkedin.com/in/eymen-y%C4%B1lmazt%C3%BCrk-54023a264/)
 - [Instagram](https://instagram.com/eymenyilmazturkk)
 - [Twitter](https://twitter.com/eymenyilmazturk)
 - [Pinterest](https://tr.pinterest.com/eymenyilmazturk/)

@@ -17,4 +17,4 @@
 - [Twitter](https://twitter.com/eymenyilmazturk)
 - [Pinterest](https://tr.pinterest.com/eymenyilmazturk/)
 - [YouTube](https://www.youtube.com/channel/UCjNJ24yf1wT4oNUqbCvXKWw)
-- [Spotify](https://open.spotify.com/playlist/3EzZ8Knvz1A7AQyBh0fnPR?si=3ddf89bce26f401c&nd=1)
+- [Spotify](https://open.spotify.com/user/31krztthvazlzif5gcewp7pjqvqi)

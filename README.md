@@ -11,6 +11,8 @@
 - Python
 - Java
 - Arduino
+- HTML
+- CSS
 ---
 **My Social Media Accounts :**
 - [Instagram](https://instagram.com/eymenyilmazturkk)

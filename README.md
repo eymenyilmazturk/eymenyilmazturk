@@ -4,7 +4,7 @@
 - I live in Istanbul 🌆
 - I have been interested in software and electronics for 1 year 👨🏻‍💻
 ---
-- 🌱 I’m currently learning **Spring Boot** and **HTML**
+- 🌱 I’m currently learning **Spring Boot** and **CSS**
 - 📫 How to reach me ➡️ eymenyilmazturk34@gmail.com
 ---
 **Technologies I am interested in :**

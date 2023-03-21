@@ -14,8 +14,6 @@
 - HTML
 - CSS
 ---
-[![FolksDEV's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eymenyilmazturk&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
----
 **My Social Media Accounts :**
 - [Instagram](https://instagram.com/eymenyilmazturkk)
 - [Twitter](https://twitter.com/eymenyilmazturk)

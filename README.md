@@ -1,4 +1,4 @@
-***Hello I'm Eymen 👋🏻***
+***Hello, I'm Eymen 👋🏻***
 ---
 - I'm a high school student in Türkiye 🏫
 - I live in Istanbul 🌆

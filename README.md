@@ -15,9 +15,7 @@
 - CSS
 ---
 **My Social Media Accounts :**
-- [Instagram](https://instagram.com/eymenyilmazturkk)
-- [Twitter](https://twitter.com/eymenyilmazturk)
 - [LinkedIn](https://www.linkedin.com/in/eymen-y%C4%B1lmazt%C3%BCrk-54023a264/)
-- [Pinterest](https://tr.pinterest.com/eymenyilmazturk/)
-- [YouTube](https://www.youtube.com/channel/UCjNJ24yf1wT4oNUqbCvXKWw)
+- [Twitter](https://twitter.com/eymenyilmazturk)
+- [Instagram](https://instagram.com/eymenyilmazturkk)
 - [Spotify](https://open.spotify.com/user/31krztthvazlzif5gcewp7pjqvqi)

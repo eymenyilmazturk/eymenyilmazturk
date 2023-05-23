@@ -8,11 +8,12 @@
 - 📫 How to reach me ➡️ eymenyilmazturk34@gmail.com
 ---
 **Technologies I am interested in :**
-- Python
-- Java
 - Arduino
+- Python
+- JavaScript
 - HTML
 - CSS
+- Java
 ---
 **My Social Media Accounts :**
 - [LinkedIn](https://www.linkedin.com/in/eymen-y%C4%B1lmazt%C3%BCrk-54023a264/)

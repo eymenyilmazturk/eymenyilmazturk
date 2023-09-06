@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I'm a high school student in Türkiye.<br>🌆 I live in Istanbul.<br>👨🏻‍💻 I have been interested in software and electronics for 1 year.<br>🌱 I’m currently learning JavaScript.<br>📫 How to reach me ➡️ eymenyilmazturk34@gmail.com
+🏫 I'm a high school student in Türkiye.<br>🌆 I live in Istanbul.<br>👨🏻‍💻 I have been interested in software and electronics for 1 year.<br>📫 How to reach me ➡️ eymenyilmazturk34@gmail.com
 
 
 ## 🌐 Socials:
